@@ -7,7 +7,7 @@ A **Google Chrome** extension to download instagram images easily.
 2. Open Google Chrome and got to [chrome://extensions/](chrome://extensions/) or click the 3-dot icon -> More tools -> Extensions.
 3. Turn on `Developer mode` located on the top right side.
 4. Click `Load unpacked` and navigate to the location you extracted the `InstGet-master` folder and select it.
-- Chrome will automatically install the extension.
+[Chrome will automatically install the extension.]
 5. Turn off `Developer mode`.
 
 ## How to use 
