@@ -13,5 +13,5 @@ A **Google Chrome** extension to download instagram images easily.
 ## How to use 
 1. Go to [Instagram.com](https://www.instagram.com/) and go to the post that you need to download.
 2. Wait for the extension to stop `Fetching...` image [bottom right of the post] (Time taken to fetch depends on the network connection speed).
-3. For posts with a single image click the `Download` button, for posts with multiple images click the buttons with numbers. [1,2] (**Note: Current version only supports upto two images for multiple downloads, Working on it**).
-4. The image(s) will be open in a new tab. Right-click the image and select `Save as`. (Since Chrome has removed support for cross-origin downloads this is currently the only way to save the image(s) without loosing any quality).
+3. For posts with a single image click the `Download` button, for posts with multiple images click the buttons with numbers. [1,2] ( **Note: Current version only supports upto two images for multiple downloads, Working on it** ).
+4. The image(s) will be open in a new tab. Right-click the image and select `Save as`. ( Since Chrome has removed support for cross-origin downloads this is currently the only way to save the image(s) without loosing any quality).
